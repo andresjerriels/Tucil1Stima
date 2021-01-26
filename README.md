@@ -9,7 +9,7 @@ Untuk menjalankan program melalui command line, silakan navigasi ke folder bin. 
 ```
 ![Main Menu](Documentation/main-menu.jpg)
 
-Kemudian, masukkan `nama_file.txt` yang berisi persoalan Cryptarithmetic dan program akan menampilkan solusi yang bisa dihasilkan dari persoalan tersebut
+Kemudian, masukkan `nama_file.txt` yang berisi persoalan Cryptarithmetic beserta direktorinya dan program akan menampilkan solusi yang bisa dihasilkan dari persoalan tersebut
 
 Contoh:
 
