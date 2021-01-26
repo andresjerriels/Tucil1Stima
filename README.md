@@ -7,9 +7,11 @@ Untuk menjalankan program melalui command line, silakan navigasi ke folder bin. 
 ```
   java Cryptarithmetic
 ```
-![Welcome display](Documentation/welcome-display.png)
-Masukkan 'Y' dan ikuti petunjuk yang ditampilkan di dalam program serta yang ada pada file README.md ini.
+![Main Menu](Documentation/main-menu.jpg)
 
-## MENU UTAMA
-![Menu Utama](Documentation/menu-utama-display.png)
-Masukkan angka yang sesuai dengan operasi yang ingin dilakukan
+Kemudian, masukkan `nama_file.txt` yang berisi persoalan Cryptarithmetic dan program akan menampilkan solusi yang bisa dihasilkan dari persoalan tersebut
+
+Contoh:
+
+![Contoh](Documentation/example-photo.png)
+
