@@ -1,8 +1,10 @@
 # Tugas Kecil 1 IF2211 Strategi Algoritma
 Penyelesaian Cryptarithmetic dengan Algoritma Brute Force
 
-## WELCOME!
+## Requirements
+Anda harus menginstal Java di dalam device Anda untuk menggunakan program ini. Anda bisa mengunduhnya [disini](https://www.java.com/en/download/)
 
+## WELCOME!
 Untuk menjalankan program melalui command line, silakan navigasi ke folder bin. Kemudian masukkan:
 ```
   java Cryptarithmetic
